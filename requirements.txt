@@ -1,0 +1,6 @@
+djangorestframework
+pymysql
+reportlab
+django==4.2
+pillow
+openpyxl
